@@ -6,8 +6,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 <img src="https://github.com/zero-bugger/TravelGram/blob/master/Capture1.PNG" width="auto" height="auto"/>
 
-<img src="https://github.com/zero-bugger/TravelGram/blob/master/Capture2.PNG" width="auto" height="auto"/>
-
 <img src="https://github.com/zero-bugger/TravelGram/blob/master/Capture3.PNG" width="auto" height="auto"/>
 
 
