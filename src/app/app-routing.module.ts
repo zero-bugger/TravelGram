@@ -35,7 +35,7 @@ const routes: Routes = [
        data:{authGuardPipe:redirectUnauthorizedTosigin}   
     },
     {
-      path:' ',
+      path:"",
       component:HomeComponent,
       canActivate:[AngularFireAuthGuard],
        data:{authGuardPipe:redirectUnauthorizedTosigin}   

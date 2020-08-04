@@ -7,7 +7,7 @@
         class="d-inline-block align-top"
         alt=""
       />
-      LCO Social Network
+          TravelGram
     </a>
     <button
       class="navbar-toggler"
@@ -27,7 +27,7 @@
           {{ email }}
         </div>
         <a
-
+          *ngIf="email" 
           [routerLink]="['/']"
           class="nav-item nav-link"
           >Home</a
