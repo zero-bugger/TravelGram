@@ -62,7 +62,7 @@ export class AddpostComponent implements OnInit {
         date:Date.now()
       })
       .then(()=>{
-        this.toaster.success("Post Added Successfully");
+        this.toaster.success("Post Added Successfull");
         this.router.navigateByUrl("/");
       })
       .catch(err=>{
