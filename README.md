@@ -1,6 +1,17 @@
-# InstaHandle
+# TravelGram
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+
+<img src="https://github.com/zero-bugger/TravelGram/blob/master/Capture.PNG" width="auto" height="auto"/>
+
+<img src="https://github.com/zero-bugger/TravelGram/blob/master/Capture1.PNG" width="auto" height="auto"/>
+
+<img src="https://github.com/zero-bugger/TravelGram/blob/master/Capture3.PNG" width="auto" height="auto"/>
+
+
+<img src="https://github.com/zero-bugger/TravelGram/blob/master/Capture4.PNG" width="auto" height="auto"/>
+
+<img src="https://github.com/zero-bugger/TravelGram/blob/master/Capture5.PNG" width="auto" height="auto"/>
 
 ## Development server
 
