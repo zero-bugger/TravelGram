@@ -71,7 +71,7 @@ picture :string= "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8
 
     let resizedImage = await readAndCompressImage(file, imageconfig);
 
-    const filePath = file.name; // rename the image with TODO: UUID
+    const filePath = file.name;
     const fileRef = this.storage.ref(filePath);
 
     const task = this.storage.upload(filePath, resizedImage);
